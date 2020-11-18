@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5YOhTKTb67pbsb+dy2/o1Ht8b2xPttlTv2mHxS4DMrKW/yY97Fx6HJWwL4SBav4kgf1aE07EbddHqW962HhBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zZEN\\source\\repos\\containerApp\\containerApp\\containerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zZEN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
